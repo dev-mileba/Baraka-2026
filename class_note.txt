@@ -1,0 +1,3 @@
+Week 1: Intro to python - All learners participated
+Week 2: Data Types - 3 learners need extra help with dict
+Week 3: File Handling - Great engagement, practical example
